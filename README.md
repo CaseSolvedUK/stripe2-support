@@ -1,5 +1,5 @@
 # Stripe2 - Stripe payment integration for the frappe framework
-####Full set of Stripe payment methods, subscrptions and terminal support
+#### Full set of Stripe payment methods, subscrptions and terminal support
 
 ## Features
 
