@@ -53,7 +53,7 @@ NOTE: you may need to contact Stripe to enable Terminal support on your account,
 3. Add a Terminal Mode of Payment and register the Pairing Code
 4. Now Open Point of Sale and process a sale
 5. Use the rendered buttons, like below, to take the payment:
-![Screen Shot 2023-06-11 at 01 59 04](https://github.com/CaseSolvedUK/stripe2-support/assets/110036763/2edba316-4e36-4707-8961-df257f2b25a5)
+![POS Buttons](https://raw.githubusercontent.com/CaseSolvedUK/stripe2-support/master/POS-buttons.png)
 
 ## Support
 
